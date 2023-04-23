@@ -1,0 +1,1 @@
+moon_radius = "The Moon has a radius of 1,080 miles"

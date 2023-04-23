@@ -1,0 +1,108 @@
+{
+    "heroes" : {
+        "person" : [
+            {
+                "name" : "Kero Usagi",
+                "heroName" : "Flying Rabbit",
+                "type": "support",
+                "characteristic" : "fly",
+                "countryId": "JPN",
+                "order": "0"
+            },
+            {
+                "name" : "Jhon Zalxy",
+                "heroName" : "Esplode Man",
+                "type": "strategical",
+                "characteristic" : "explosive magic",
+                "countryId": "USA",
+                "order": "1"
+            },
+            {
+                "name" :"Benito Paredes",
+                "heroName" : "El Nacho",
+                "type": "support",
+                "characteristic" : "strong",
+                "countryId": "MEX",
+                "order": "2"
+            },
+            {
+                "name" :"Zaida Sudi",
+                "heroName" : "Bassel",
+                "type": "main",
+                "characteristic" : "aim",
+                "countryId": "SEN",
+                "order": "3"
+            }
+        ]
+    },
+    "villanos":{
+        "person" : [
+            {
+                "name" : "Cho Lee",
+                "heroName" : "Troublemaker",
+                "characteristic" : "psychic",
+                "countryId": "CHI",
+                "order": "0"
+            },
+            {
+                "name" : "Carl Smith",
+                "heroName" : "Shocker",
+                "characteristic" : "gravity",
+                "countryId": "USA",
+                "order": "1"
+            },
+            {
+                "name" :"Linda Cruz",
+                "heroName" : "Azulinda",
+                "characteristic" : "water magic",
+                "countryId": "HON",
+                "order": "2"
+            },
+            {
+                "name" :"Momo Tanaka",
+                "heroName" : "Momo",
+                "characteristic" : "transformation magic",
+                "countryId": "JPN",
+                "order": "3"
+            }
+        ]
+    },
+    "country": [
+        {
+            "id": "JPN",
+            "value": "Japan",
+            "order": "0"
+        },
+        {
+            "id" : "USA",
+            "value": "United States of America",
+            "order": "1"
+        },
+        {
+            "id": "MEX",
+            "value": "Mexico",
+            "order": "2"
+        },
+        {
+            "id" : "SEN",
+            "value": "Senegal",
+            "order": "3"
+        },
+        {
+            "id" : "BRA",
+            "value": "Brazil",
+            "order": "4"
+        },
+        {
+            "id" : "CHI",
+            "value": "China",
+            "order": "5"
+        },
+        {
+            "id" : "HON",
+            "value": "Honduras",
+            "order": "6"
+        }
+
+    ]
+}
